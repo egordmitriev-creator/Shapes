@@ -1,0 +1,102 @@
+# ninja log v6
+39	89	1725959577418382123	CMakeFiles/Shapes.dir/square.cpp.o	4d65dac79197b067
+1226	1416	1725974767225924071	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+81	1226	1725974766080085179	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+45	75	1725974766044853964	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+140	968	1725884961736039415	CMakeFiles/Shapes.dir/Shapes_autogen/mocs_compilation.cpp.o	c1109276bb041182
+45	75	1725974766044853964	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+32	807	1725951079320986271	CMakeFiles/Shapes.dir/main.cpp.o	46010d8968f54a66
+45	75	1725974766044853964	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+45	75	1725974766044853964	Shapes_autogen/timestamp	31ed061626d8e698
+9	35	1726039999724482925	Shapes_autogen/timestamp	31ed061626d8e698
+9	35	1726039999724482925	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+9	35	1726039999724482925	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+9	35	1726039999724482925	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+36	898	1726039999751021934	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+898	1086	1726040000613515070	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+10	32	1726040140321472413	Shapes_autogen/timestamp	31ed061626d8e698
+10	32	1726040140321472413	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+10	32	1726040140321472413	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+10	32	1726040140321472413	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+33	752	1726040140344334495	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+752	842	1726040141064195767	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+7	30	1726040369047391924	Shapes_autogen/timestamp	31ed061626d8e698
+7	30	1726040369047391924	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+7	30	1726040369047391924	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+7	30	1726040369047391924	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+31	873	1726040369071826457	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+873	965	1726040369913382619	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+11	36	1726040457922134446	Shapes_autogen/timestamp	31ed061626d8e698
+11	36	1726040457922134446	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+11	36	1726040457922134446	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+11	36	1726040457922134446	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+36	756	1726040457946896468	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+756	843	1726040458666571913	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+7	27	1726040585393669498	Shapes_autogen/timestamp	31ed061626d8e698
+7	27	1726040585393669498	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+7	27	1726040585393669498	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+7	27	1726040585393669498	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+29	866	1726040585415532652	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+866	957	1726040586252972899	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+11	36	1726040726132310963	Shapes_autogen/timestamp	31ed061626d8e698
+11	36	1726040726132310963	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+11	36	1726040726132310963	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+11	36	1726040726132310963	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+37	756	1726040726158294782	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+756	843	1726040726877415827	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+12	37	1726041115148714944	Shapes_autogen/timestamp	31ed061626d8e698
+12	37	1726041115148714944	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+12	37	1726041115148714944	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+12	37	1726041115148714944	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+38	760	1726041115174062574	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+760	847	1726041115896808757	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+48	79	1726118095392560080	Shapes_autogen/timestamp	31ed061626d8e698
+48	79	1726118095392560080	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+48	79	1726118095392560080	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+48	79	1726118095392560080	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+83	4068	1726118095427286712	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+4068	5975	1726118099412200649	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+23	55	1726118213240140848	Shapes_autogen/timestamp	31ed061626d8e698
+23	55	1726118213240140848	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+23	55	1726118213240140848	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+23	55	1726118213240140848	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+57	1156	1726118213274803066	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+1156	1336	1726118214373486797	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+58	84	1726124036379026464	Shapes_autogen/timestamp	31ed061626d8e698
+58	84	1726124036379026464	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+58	84	1726124036379026464	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+58	84	1726124036379026464	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+87	1115	1726124036407681477	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+1116	1294	1726124037436505829	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+9	34	1726124125420860254	Shapes_autogen/timestamp	31ed061626d8e698
+9	34	1726124125420860254	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+9	34	1726124125420860254	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+9	34	1726124125420860254	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+34	760	1726124125445701046	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+760	848	1726124126171384833	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+7	25	1726124150465234491	Shapes_autogen/timestamp	31ed061626d8e698
+7	25	1726124150465234491	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+7	25	1726124150465234491	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+7	25	1726124150465234491	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+26	807	1726124150484211018	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+807	908	1726124151265025253	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+8	29	1726124338888403337	Shapes_autogen/timestamp	31ed061626d8e698
+8	29	1726124338888403337	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+8	29	1726124338888403337	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+8	29	1726124338888403337	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+30	863	1726124338910609360	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+863	964	1726124339744088432	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+9	33	1726124596122941296	Shapes_autogen/timestamp	31ed061626d8e698
+9	33	1726124596122941296	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+9	33	1726124596122941296	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+9	33	1726124596122941296	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+35	83	1726124596148103242	CMakeFiles/Shapes.dir/square.cpp.o	4d65dac79197b067
+34	765	1726124596147940124	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+765	856	1726124596878612537	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
+9	31	1726124949679716874	Shapes_autogen/timestamp	31ed061626d8e698
+9	31	1726124949679716874	Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+9	31	1726124949679716874	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/timestamp	31ed061626d8e698
+9	31	1726124949679716874	/Users/egordmitriev/Desktop/sibsutis/3 course/visual programming/Shapes/build/Qt_6_7_2_for_macOS-Debug/Shapes_autogen/mocs_compilation.cpp	31ed061626d8e698
+33	86	1726124949703583698	CMakeFiles/Shapes.dir/square.cpp.o	4d65dac79197b067
+33	773	1726124949703392282	CMakeFiles/Shapes.dir/mainwindow.cpp.o	cceeffde1c96cc8b
+773	865	1726124950443790376	Shapes.app/Contents/MacOS/Shapes	bebad4976cb3365
